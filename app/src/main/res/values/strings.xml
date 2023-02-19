@@ -2,13 +2,19 @@
     <string name="app_name">Android Labs</string>
 
     <string name="Switch">switch on/off</string>
-    <string name="Clickhere">click here</string>
-    <string name="Checkthisout">check this out</string>
+    <string name="Clickhere">Login</string>
+    <string name="ClearData">Clear Data</string>
 
-    <string name="lab2">Lab 2 GUI</string>
+    <string name="Address">Address</string>
     <string name="namehere">Enter Name Here</string>
-    <string name="toast_message">Here is more information</string>
+    <string name="Savedata">Save data</string>
     <string name="checkboxOn">Switch is on</string>
     <string name="checkboxOff">Switch is off</string>
+    <string name="ProfileActivity">Profile Activity</string>
+    <string name="MainActivity">Main Activity</string>
+    <string name="Email_Main">Enter your email</string>
+    <string name="Main_name">Enter your Name</string>
+    <string name="Take_Picture">Take Picture</string>
+    <string name="Password_Text">Enter your password</string>
 
 </resources>
