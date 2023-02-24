@@ -16,5 +16,10 @@
     <string name="Main_name">Enter your Name</string>
     <string name="Take_Picture">Take Picture</string>
     <string name="Password_Text">Enter your password</string>
+    <string name="lengthValid">Length is not valid</string>
+    <string name="Foundnumber">digit is required</string>
+    <string name="FoundLowerCase">No lower character</string>
+    <string name="FoundUpperCase">no uppercase</string>
+    <string name="FoundSpecial">No special Character</string>
 
 </resources>
