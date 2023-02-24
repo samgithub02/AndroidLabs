@@ -1,5 +1,25 @@
 <resources>
     <string name="app_name">Android Labs</string>
-    <string name ="hello_message">Hello World!</string>
-    <string name ="ButtonText">I\'m a button </string>
+
+    <string name="Switch">switch on/off</string>
+    <string name="Clickhere">Login</string>
+    <string name="ClearData">Clear Data</string>
+
+    <string name="Address">Address</string>
+    <string name="namehere">Enter Name Here</string>
+    <string name="Savedata">Save data</string>
+    <string name="checkboxOn">Switch is on</string>
+    <string name="checkboxOff">Switch is off</string>
+    <string name="ProfileActivity">Profile Activity</string>
+    <string name="MainActivity">Main Activity</string>
+    <string name="Email_Main">Enter your email</string>
+    <string name="Main_name">Enter your Name</string>
+    <string name="Take_Picture">Take Picture</string>
+    <string name="Password_Text">Enter your password</string>
+    <string name="lengthValid">Length is not valid</string>
+    <string name="Foundnumber">digit is required</string>
+    <string name="FoundLowerCase">No lower character</string>
+    <string name="FoundUpperCase">no uppercase</string>
+    <string name="FoundSpecial">No special Character</string>
+
 </resources>

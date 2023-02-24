@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Android Labs</string>
-    <string name ="hello_message">Namaste</string>
-    <string name ="ButtonText">Mai button hoon</string>
+    <!--    <string name="hello_message">Namaskar!</string>-->
+    <!--    <stringswitch name="ButtonText">hum ek button hai</stringswitch>-->
+    <string name="Switch">स्विच</string>
+    <string name="Clickhere">बटनं</string>
+    <string name="ClearData">इसकी जांच करें</string>
+    <string name="Savedata">यहाँ अधिक जानकारी है</string>
+    <string name="Address">लैब 2 जीयूआई</string>
+    <string name="namehere">यहाँ नाम दर्ज करें</string>
+    <string name="checkboxOn">स्विच चालू है</string>
+    <string name="checkboxOff">स्विच ऑफ है</string>
+
+
+    <string name="ProfileActivity">प्रोफ़ाइल गतिविधि</string>
+    <string name="MainActivity">मुख्य गतिविधि</string>
+    <string name="Email_Main">अपना मुख्य दर्ज करें</string>
+    <string name="Main_name">अपना नाम दर्ज करें</string>
+    <string name="Take_Picture">तस्वीर ले लो</string>
+    <string name="Password_Text">अपना कूटशब्द भरें</string>
+
+
+
+
+
+
+
+
 </resources>
