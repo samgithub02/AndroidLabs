@@ -3,4 +3,6 @@
     <string name="app_name">Android Labs</string>
     <string name ="hello_message">Namaste</string>
     <string name ="ButtonText">Mai button hoon</string>
+    <string name="time_text">Time goes here</string>
+    <string name="message_text">Message goes here</string>
 </resources>
